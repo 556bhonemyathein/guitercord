@@ -1,11 +1,11 @@
 {
-    "name": "guitercord",
-    "short_name": "guitercord",
+    "name": "Guitar Chords",
+    "short_name": "Chords",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#6200EE",
+    "theme_color": "#6200EE",
+    "description": "Guitar chord library with lyrics and favorites.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
